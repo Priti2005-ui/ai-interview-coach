@@ -1,0 +1,10 @@
+{
+  "name": "ai-interview-prep-docs",
+  "private": true,
+  "scripts": {
+    "generate-docx": "node generate-codebase-docx.cjs"
+  },
+  "dependencies": {
+    "docx": "^9.5.0"
+  }
+}
